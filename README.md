@@ -14,3 +14,9 @@
 /pip install wikipedia
 
 /pip install pyTelegramBotAPI
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/62199a961a26c9c93743e991b9955c7f84ad31ca/icons/python/python-original-wordmark.svg" class="deleted asset" style="width: 60px; height: 60px;">
+
+![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+</div>
